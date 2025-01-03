@@ -1,0 +1,25 @@
+
+
+.main{
+    background: linear-gradient(to right, #005345, #60f3aa);
+    border-radius: 20px;
+    margin: 0px auto;
+    width: 310px;
+    
+}
+.search{
+    height: 50px;
+    width: 180px;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding-left: 20px;
+}
+.button{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    border: 2px solid black;
+}
+.text-white{
+    font-family: "IBM Plex Serif" , Serif;
+}
